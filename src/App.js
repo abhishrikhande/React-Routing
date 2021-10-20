@@ -1,24 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Menu from './Menu';
+import { Switch, Route } from 'react-router';
+import Home from './Components/Home';
+import One from './Components/One';
+import Two from './Components/Two';
+import Three from './Components/Three';
+import Four from './Components/Four';
+import Five from './Components/Five';
+import Six from './Components/Six';
+import Seven from './Components/Seven';
+import Eight from './Components/Eight';
+import Nine from './Components/Nine';
+import pnf from './Components/Pagenotfound';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <> 
+   <Menu />
+      <Switch>
+        <Route  exact path='/' component={Home} />
+        <Route  path='/.one' component={One} />
+        <Route  path='/.Two' component={Two} />
+        <Route  path='/.Three' component={Three} />
+        <Route  path='/.four' component={Four} />
+        <Route  path='/.five' component={Five} />
+        <Route  path='/.six' component={Six} />
+        <Route  path='/.seven' component={Seven} />
+        <Route  path='/.eight' component={Eight} />
+        <Route  path='/.nine' component={Nine} />
+        <Route  component={pnf} />
+      </Switch>
+
+    </>
   );
 }
 
