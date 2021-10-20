@@ -1,70 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2021-10-20 115434](https://user-images.githubusercontent.com/89852468/138044728-f9228be8-5244-47da-a6e8-1205f4e8c9c5.png)
+![Screenshot 2021-10-20 115507](https://user-images.githubusercontent.com/89852468/138044775-77824400-8fdd-4447-9daa-882ef5155ace.png)
+![Screenshot 2021-10-20 115755](https://user-images.githubusercontent.com/89852468/138044852-3e3352a0-3791-451d-8e87-fab1b726d6ea.png)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2021-10-20 115832](https://user-images.githubusercontent.com/89852468/138044867-633a7553-86d0-4f22-8439-cfbbce3562ac.png)
+![Screenshot 2021-10-20 115914](https://user-images.githubusercontent.com/89852468/138044892-20b976a6-2254-46ba-8bdd-e520143d0688.png)
+![Screenshot 2021-10-20 120100](https://user-images.githubusercontent.com/89852468/138044932-ca76f571-190d-417e-b3b1-2696102ecd3c.png)
+![Screenshot 2021-10-20 120141](https://user-images.githubusercontent.com/89852468/138044953-7e2df57d-cf36-4dbc-a056-f498f29561b0.png)
+![Screenshot 2021-10-20 121112](https://user-images.githubusercontent.com/89852468/138044968-07d4309d-b59f-482f-91a2-36ec77507e14.png)
