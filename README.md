@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-![Screenshot 2021-10-20 115052](https://user-images.githubusercontent.com/89852468/138051782-8e1aa12d-ab1e-4916-a87e-6bb3965186ce.png
+#
+
+![Screenshot 2021-10-20 115052](https://user-images.githubusercontent.com/89852468/138051782-8e1aa12d-ab1e-4916-a87e-6bb3965186ce.png)
 ![Screenshot 2021-10-20 115311](https://user-images.githubusercontent.com/89852468/138051799-b2d28e59-fb2c-4f3e-8829-bd06b2f88508.png)
 ![Screenshot 2021-10-20 115351](https://user-images.githubusercontent.com/89852468/138051815-4845c6de-0ba1-4a5a-b79b-151d64304f8b.png)
 ![Screenshot 2021-10-20 115434](https://user-images.githubusercontent.com/89852468/138051825-0ac94fc8-cb48-4183-8fba-0cd982bd723d.png)
