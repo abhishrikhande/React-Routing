@@ -10,7 +10,7 @@ const Menu = () => {
         <NavLink exact to="/.two"> two </NavLink>  |
         <NavLink exact to="/.three"> three </NavLink>  |
         <NavLink exact to="/.four"> Four </NavLink>  |
-        <NavLink exact to="/.five"> Fift </NavLink>  |
+        <NavLink exact to="/.five"> Five </NavLink>  |
         <NavLink exact to="/.six"> Six </NavLink>  |
         <NavLink exact to="/.seven"> Seven </NavLink>  |
         <NavLink exact to="/.eight"> Eight </NavLink>  |
